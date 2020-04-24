@@ -76,8 +76,8 @@ async function handleRequest(request)
 
    // Reponse for HTMLRewriter
    var variantResponse = await fetch(url);
-   var endpoint = url.slice(url.length - 2, url.length);
 
+   var endpoint = url.slice(url.length - 2, url.length);
    var webpage = null;
 
    // Determine which page to customize
