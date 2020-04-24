@@ -1,6 +1,6 @@
 name = "stefanwerleman-full-stack-app"
 type = "javascript"
-account_id = ""
+account_id = "fe2d57bc6f0b4d26331e4e599ef01940"
 workers_dev = true
 route = ""
 zone_id = ""
