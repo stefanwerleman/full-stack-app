@@ -48,7 +48,7 @@ async function customizeVariant1(response)
    return rewriter.transform(response);
 }
 
-// Customization for Variant 1
+// Customization for Variant 2
 async function customizeVariant2(response)
 {
    const rewriter = new HTMLRewriter()
